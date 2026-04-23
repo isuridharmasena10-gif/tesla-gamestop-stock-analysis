@@ -24,3 +24,4 @@ This project analyzes stock price and revenue data of Tesla and GameStop using P
 
 ## 🔗 Certificate
 https://coursera.org/verify/3P89FDHXOJ07
+## This project was completed as part of the IBM Data Science Professional Certificate on Coursera.
